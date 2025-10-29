@@ -50,6 +50,8 @@
 ||pornsites.com^$all
 ||pornwebmasters.com^$all
 ||pornzog.com^$all
+||redgifs.cam^$all
+||redgifs.com^$all
 ||redtube.com^$all
 ||sexvid.xxx^$all
 ||siterips.org^$all
