@@ -19,6 +19,7 @@
 ||erome.com^$all
 ||fansly.com^$all
 ||foxporns.com^$all
+||freesafeporn.com^$all
 ||fuckingsession.com^$all
 ||fullpornvideos.com^$all
 ||fuq.com^$all
@@ -27,6 +28,7 @@
 ||hqporner.com^$all
 ||ixxx.com^$all
 ||jerkmate.com^$all
+||kwikylive.com^$all
 ||leakedzone.com^$all
 ||leakporner.com^$all
 ||manyvids.com^$all
@@ -37,10 +39,13 @@
 ||naughtyblog.my^$all
 ||naughtyblog.org^$all
 ||onlyfans.com^$all
+||pornbaker.com^$all
 ||porn.com^$all
+||porndig.com^$all
 ||porndoe.com^$all
 ||porndude2.com^$all
 ||porneec.com^$all
+||porngeek.com^$all
 ||pornheal.com^$all
 ||pornhoarder.io^$all
 ||pornhoarder.org^$all
@@ -48,6 +53,8 @@
 ||pornhoarder.tw^$all
 ||pornhub.com^$all
 ||pornhub.org^$all
+||pornlist18.com^$all
+||pornone.com^$all
 ||pornoxo.com^$all
 ||pornsites.com^$all
 ||pornwebmasters.com^$all
@@ -68,9 +75,11 @@
 ||theporndude.com^$all
 ||theporndude.vip^$all
 ||thepornguy.org^$all
+||thepornlinks.com^$all
 ||thotsblog.com^$all
 ||thumbzilla.com^$all
 ||toppornsites.com^$all
+||toppornsites.porn^$all
 ||tube8.com^$all
 ||tubepornstars.com^$all
 ||txnhh.com^$all
