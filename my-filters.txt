@@ -48,7 +48,9 @@
 ||porngeek.com^$all
 ||pornheal.com^$all
 ||pornhoarder.io^$all
+||pornhoarder.net^$all
 ||pornhoarder.org^$all
+||pornhoarder.pictures^$all
 ||pornhoarder.tv^$all
 ||pornhoarder.tw^$all
 ||pornhub.com^$all
