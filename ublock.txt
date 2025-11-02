@@ -7,8 +7,10 @@
 ||0xxx.ws^$all
 ||4tube.com^$all
 ||adultdb.io^$all
+||amateur8.com^$all
 ||bestpornsites.net^$all
 ||bestpornstars.org^$all
+||bigtitslust.com^$all
 ||camcaps.ac^$all
 ||camcaps.io^$all
 ||camcaps.net^$all
@@ -18,12 +20,15 @@
 ||eporner.com^$all
 ||erome.com^$all
 ||fansly.com^$all
+||faphouse.com^$all
 ||foxporns.com^$all
 ||freesafeporn.com^$all
 ||fuckingsession.com^$all
 ||fullpornvideos.com^$all
 ||fuq.com^$all
 ||hdtube.porn^$all
+||hog.mobi^$all
+||hog.tv^$all
 ||hornysimp.com^$all
 ||hqporner.com^$all
 ||ixxx.com^$all
@@ -38,8 +43,10 @@
 ||nablog.org^$all
 ||naughtyblog.my^$all
 ||naughtyblog.org^$all
+||okxxx1.com^$all
 ||onlyfans.com^$all
 ||pornbaker.com^$all
+||pornbox.com^$all
 ||porn.com^$all
 ||porndig.com^$all
 ||porndoe.com^$all
@@ -56,6 +63,7 @@
 ||pornhub.com^$all
 ||pornhub.org^$all
 ||pornlist18.com^$all
+||pornmeka.com^$all
 ||pornone.com^$all
 ||pornoxo.com^$all
 ||pornsites.com^$all
@@ -82,7 +90,10 @@
 ||thumbzilla.com^$all
 ||toppornsites.com^$all
 ||toppornsites.porn^$all
+||toroporno.com^$all
+||trendyporn.com^$all
 ||tube8.com^$all
+||tube8.fr^$all
 ||tubepornstars.com^$all
 ||txnhh.com^$all
 ||txxx.com^$all
@@ -98,6 +109,7 @@
 ||xnxx.tv^$all
 ||xtapes.porn^$all
 ||xvideos.com^$all
+||xvideos.red^$all
 ||xxdbx.com^$all
 ||xxvideoss.org^$all
 ||xxx.com^$all
