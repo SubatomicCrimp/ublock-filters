@@ -1,7 +1,7 @@
-! Title: My Filters
+! Title: My uBlock Filters
 ! Expires: 1 days
 ! License: https://unlicense.org/
-! Homepage: https://github.com/SubatomicCrimp/ublock-filters
+! Homepage: https://github.com/SubatomicCrimp/my-filters
 ||0xxx.me^$all
 ||0xxx.nu^$all
 ||0xxx.ws^$all
