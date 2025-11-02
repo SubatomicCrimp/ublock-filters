@@ -17,6 +17,7 @@
 ||camcaps.to^$all
 ||camsoda.com^$all
 ||cumlouder.com^$all
+||eispop.com^$all
 ||eporner.com^$all
 ||erome.com^$all
 ||fansly.com^$all
@@ -43,6 +44,7 @@
 ||nablog.org^$all
 ||naughtyblog.my^$all
 ||naughtyblog.org^$all
+||nurxxx.com^$all
 ||okxxx1.com^$all
 ||onlyfans.com^$all
 ||pornbaker.com^$all
@@ -61,6 +63,7 @@
 ||pornhoarder.tv^$all
 ||pornhoarder.tw^$all
 ||pornhub.com^$all
+||pornhub-deutsch.net^$all
 ||pornhub.org^$all
 ||pornlist18.com^$all
 ||pornmeka.com^$all
@@ -117,3 +120,4 @@
 ||yesporn.vip^$all
 ||youperv.com^$all
 ||youporn.com^$all
+||zbporn.com^$all
