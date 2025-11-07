@@ -15,6 +15,7 @@
 ||camcaps.io^$all
 ||camcaps.net^$all
 ||camcaps.to^$all
+||camcaps.tv^$all
 ||camsoda.com^$all
 ||cumlouder.com^$all
 ||eispop.com^$all
@@ -75,6 +76,7 @@
 ||redgifs.cam^$all
 ||redgifs.com^$all
 ||redtube.com^$all
+||sexreels.net^$all
 ||sexvid.xxx^$all
 ||siterips.org^$all
 ||spankbang.com^$all
