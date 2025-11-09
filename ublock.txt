@@ -16,6 +16,7 @@
 ||blacked.com^$all
 ||blackedraw.com^$all
 ||brazzers.com^$all
+||cam4.com^$all
 ||camcaps.ac^$all
 ||camcaps.io^$all
 ||camcaps.net^$all
