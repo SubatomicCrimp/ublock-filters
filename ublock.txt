@@ -101,6 +101,7 @@
 ||pornsites.com^$all
 ||pornsites.xxx^$all
 ||pornwebmasters.com^$all
+||pornworld.com^$all
 ||pornx.to^$all
 ||pornzog.com^$all
 ||punishworld.com^$all
