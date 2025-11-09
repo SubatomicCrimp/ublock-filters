@@ -16,7 +16,6 @@
 ||blacked.com^$all
 ||blackedraw.com^$all
 ||brazzers.com^$all
-||pornx.to^$all
 ||cam4.com^$all
 ||camcaps.ac^$all
 ||camcaps.io^$all
@@ -85,6 +84,7 @@
 ||pornoxo.com^$all
 ||pornsites.com^$all
 ||pornwebmasters.com^$all
+||pornx.to^$all
 ||pornzog.com^$all
 ||punishworld.com^$all
 ||realitykings.com^$all
