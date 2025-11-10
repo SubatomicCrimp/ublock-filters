@@ -34,6 +34,7 @@
 ||cumlouder.com^$all
 ||deeper.com^$all
 ||devilsfilm.com^$all
+||drpornofilme.com^$all
 ||eispop.com^$all
 ||eporner.com^$all
 ||erome.com^$all
@@ -64,6 +65,7 @@
 ||manyvids.com^$all
 ||megatube.xxx^$all
 ||milfy.com^$all
+||minuporno.com^$all
 ||mofos.com^$all
 ||mofosex.net^$all
 ||mypornbible.com^$all
@@ -96,6 +98,10 @@
 ||pornhub.org^$all
 ||pornlist18.com^$all
 ||pornmeka.com^$all
+||pornoente.tv^$all
+||pornohammer.com^$all
+||pornohexen.com^$all
+||pornohirsch.net^$all
 ||pornone.com^$all
 ||pornoxo.com^$all
 ||pornsites.com^$all
@@ -146,6 +152,7 @@
 ||watchporn.to^$all
 ||wifey.com^$all
 ||wow.xxx^$all
+||xgroovy.com^$all
 ||xhamster.com^$all
 ||xhamster.desi^$all
 ||xhamsterlive.com^$all
