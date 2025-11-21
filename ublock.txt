@@ -38,6 +38,7 @@
 ||eispop.com^$all
 ||eporner.com^$all
 ||erome.com^$all
+||evilangel.com^$all
 ||fansly.com^$all
 ||fap18.net^$all
 ||faphouse.com^$all
@@ -47,6 +48,7 @@
 ||fuckingsession.com^$all
 ||fullpornvideos.com^$all
 ||fuq.com^$all
+||go.porn^$all
 ||hdfreeporn.net^$all
 ||hdpornfree.tv^$all
 ||hdpornmax.net^$all
@@ -66,6 +68,7 @@
 ||megatube.xxx^$all
 ||milfy.com^$all
 ||minuporno.com^$all
+||mirbeko.pro^$all
 ||mofos.com^$all
 ||mofosex.net^$all
 ||mypornbible.com^$all
@@ -118,6 +121,7 @@
 ||s3xus.com^$all
 ||sexreels.net^$all
 ||sexvid.xxx^$all
+||simpvids.com^$all
 ||siterips.org^$all
 ||slayed.com^$all
 ||spankbang.com^$all
@@ -166,6 +170,7 @@
 ||xxdbx.com^$all
 ||xxvideoss.org^$all
 ||xxx.com^$all
+||xxxhindi.to^$all
 ||xxxz.tv^$all
 ||yesporn.vip^$all
 ||youperv.com^$all
