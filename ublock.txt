@@ -7,6 +7,7 @@
 ||0xxx.ws^$all
 ||24porn.tv^$all
 ||4ksex.me^$all
+||4porn.com^$all
 ||4tube.com^$all
 ||adultdb.io^$all
 ||adulttime.com^$all
@@ -54,6 +55,7 @@
 ||fansly.com^$all
 ||fap18.net^$all
 ||faphouse.com^$all
+||fapvid.com^$all
 ||foxporns.com^$all
 ||foxporns.net^$all
 ||fpo.xxx^$all
@@ -61,10 +63,12 @@
 ||fuckingsession.com^$all
 ||fullpornvideos.com^$all
 ||fuq.com^$all
+||fux.com^$all
 ||go.porn^$all
 ||hdfreeporn.net^$all
 ||hdpornfree.tv^$all
 ||hdpornmax.net^$all
+||hdroom.xxx^$all
 ||hdtube.porn^$all
 ||hog.mobi^$all
 ||hog.tv^$all
@@ -72,6 +76,8 @@
 ||hotmovs.net^$all
 ||hotpornfile.org^$all
 ||hqporner.com^$all
+||hugesex.tv^$all
+||iwank.tv^$all
 ||ixxx.com^$all
 ||jerkmate.com^$all
 ||justfor.fans^$all
@@ -81,6 +87,7 @@
 ||leakporner.com^$all
 ||lobstertube.com^$all
 ||manyvids.com^$all
+||maturetube.com^$all
 ||megatube.xxx^$all
 ||milfy.com^$all
 ||minuporno.com^$all
@@ -119,6 +126,7 @@
 ||pornhub.com^$all
 ||pornhub-deutsch.net^$all
 ||pornhub.org^$all
+||pornkai.com^$all
 ||pornlist18.com^$all
 ||pornmeka.com^$all
 ||pornoente.tv^$all
@@ -127,6 +135,7 @@
 ||pornohirsch.net^$all
 ||pornone.com^$all
 ||pornoxo.com^$all
+||pornraw.com^$all
 ||pornsites.com^$all
 ||pornsites.xxx^$all
 ||porntrex.com^$all
@@ -134,6 +143,7 @@
 ||pornworld.com^$all
 ||pornx.to^$all
 ||pornzog.com^$all
+||porzo.com^$all
 ||punishworld.com^$all
 ||realitykings.com^$all
 ||redgifs.cam^$all
@@ -174,8 +184,10 @@
 ||trueanal.com^$all
 ||tube8.com^$all
 ||tube8.fr^$all
+||tubegalore.com^$all
 ||tubepornstars.com^$all
 ||tubepornstars.tv^$all
+||tubesafari.com^$all
 ||tushy.com^$all
 ||tushyraw.com^$all
 ||txnhh.com^$all
@@ -193,6 +205,7 @@
 ||xhamster.desi^$all
 ||xhamsterlive.com^$all
 ||xmoviesforyou.com^$all
+||xneon.com^$all
 ||xnxx3.com^$all
 ||xnxx.com^$all
 ||xnxx.net^$all
@@ -204,6 +217,7 @@
 ||xxvideoss.org^$all
 ||xxx.com^$all
 ||xxxhindi.to^$all
+||xxxshame.com^$all
 ||xxxz.tv^$all
 ||yesporn.vip^$all
 ||youjizz.com^$all
