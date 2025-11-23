@@ -35,6 +35,8 @@
 ||camcaps.to^$all
 ||camcaps.tv^$all
 ||camsoda.com^$all
+||coomer.st^$all
+||coomer.su^$all
 ||cumlouder.com^$all
 ||data18.com^$all
 ||deeper.com^$all
@@ -87,14 +89,15 @@
 ||naughtyamerica.com^$all
 ||naughtyblog.my^$all
 ||naughtyblog.org^$all
+||neporn.com^$all
 ||netfapx.net^$all
 ||niceporn.tv^$all
 ||nurxxx.com^$all
 ||okxxx1.com^$all
 ||onlyfans.com^$all
+||porn.com^$all
 ||pornbaker.com^$all
 ||pornbox.com^$all
-||porn.com^$all
 ||porndig.com^$all
 ||porndoe.com^$all
 ||porndude2.com^$all
@@ -108,8 +111,8 @@
 ||pornhoarder.pictures^$all
 ||pornhoarder.tv^$all
 ||pornhoarder.tw^$all
-||pornhub.com^$all
 ||pornhub-deutsch.net^$all
+||pornhub.com^$all
 ||pornhub.org^$all
 ||pornlist18.com^$all
 ||pornmeka.com^$all
@@ -175,10 +178,10 @@
 ||xhamster.com^$all
 ||xhamster.desi^$all
 ||xhamsterlive.com^$all
-||xnxx3.com^$all
 ||xnxx.com^$all
 ||xnxx.net^$all
 ||xnxx.tv^$all
+||xnxx3.com^$all
 ||xtapes.porn^$all
 ||xvideos.com^$all
 ||xvideos.red^$all
