@@ -25,6 +25,7 @@
 ||blacked.com^$all
 ||blackedraw.com^$all
 ||bravotube.tv^$all
+||brazzers.com^$all
 ||cam4.com^$all
 ||camcaps.ac^$all
 ||camcaps.io^$all
@@ -79,6 +80,7 @@
 ||mypornbible.com^$all
 ||nablog.my^$all
 ||nablog.org^$all
+||naughtyamerica.com^$all
 ||naughtyblog.my^$all
 ||naughtyblog.org^$all
 ||netfapx.net^$all
@@ -120,6 +122,7 @@
 ||pornx.to^$all
 ||pornzog.com^$all
 ||punishworld.com^$all
+||realitykings.com^$all
 ||redgifs.cam^$all
 ||redgifs.com^$all
 ||redtube.com^$all
