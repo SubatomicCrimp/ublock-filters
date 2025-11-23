@@ -135,6 +135,7 @@
 ||siterips.org^$all
 ||slayed.com^$all
 ||spankbang.com^$all
+||spicevids.com^$all
 ||strip.chat^$all
 ||stripchat.global^$all
 ||stripchat.ooo^$all
