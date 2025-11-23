@@ -129,6 +129,7 @@
 ||pornoxo.com^$all
 ||pornsites.com^$all
 ||pornsites.xxx^$all
+||porntrex.com^$all
 ||pornwebmasters.com^$all
 ||pornworld.com^$all
 ||pornx.to^$all
@@ -160,6 +161,8 @@
 ||theporndude.vip^$all
 ||thepornguy.org^$all
 ||thepornlinks.com^$all
+||thothub.lol^$all
+||thothub.to^$all
 ||thotsblog.com^$all
 ||thumbzilla.com^$all
 ||tonightsgirlfriend.com^$all
@@ -180,6 +183,7 @@
 ||vogov.com^$all
 ||vxxx.com^$all
 ||watchporn.to^$all
+||whoreshub.com^$all
 ||wifey.com^$all
 ||wow.xxx^$all
 ||xfreehd.com^$all
@@ -187,6 +191,7 @@
 ||xhamster.com^$all
 ||xhamster.desi^$all
 ||xhamsterlive.com^$all
+||xmoviesforyou.com^$all
 ||xnxx3.com^$all
 ||xnxx.com^$all
 ||xnxx.net^$all
@@ -200,6 +205,7 @@
 ||xxxhindi.to^$all
 ||xxxz.tv^$all
 ||yesporn.vip^$all
+||youjizz.com^$all
 ||youperv.com^$all
 ||youporn.com^$all
 ||zbporn.com^$all
