@@ -10,8 +10,10 @@
 ||4tube.com^$all
 ||adultdb.io^$all
 ||adulttime.com^$all
+||allanal.com^$all
 ||allpornstream.com^$all
 ||amateur8.com^$all
+||analonly.com^$all
 ||anyxxx.me^$all
 ||babe8.net^$all
 ||bangbros.com^$all
@@ -42,6 +44,7 @@
 ||deeper.com^$all
 ||deeplush.com^$all
 ||devilsfilm.com^$all
+||dirtyauditions.com^$all
 ||dogfartnetwork.com^$all
 ||drpornofilme.com^$all
 ||eispop.com^$all
@@ -94,11 +97,12 @@
 ||netfapx.net^$all
 ||niceporn.tv^$all
 ||nurxxx.com^$all
+||nympho.com^$all
 ||okxxx1.com^$all
 ||onlyfans.com^$all
-||porn.com^$all
 ||pornbaker.com^$all
 ||pornbox.com^$all
+||porn.com^$all
 ||porndig.com^$all
 ||porndoe.com^$all
 ||porndude2.com^$all
@@ -112,8 +116,8 @@
 ||pornhoarder.pictures^$all
 ||pornhoarder.tv^$all
 ||pornhoarder.tw^$all
-||pornhub-deutsch.net^$all
 ||pornhub.com^$all
+||pornhub-deutsch.net^$all
 ||pornhub.org^$all
 ||pornlist18.com^$all
 ||pornmeka.com^$all
@@ -147,6 +151,7 @@
 ||stripchat.global^$all
 ||stripchat.ooo^$all
 ||superporn.com^$all
+||swallowed.com^$all
 ||sxyland.com^$all
 ||sxyprn.com^$all
 ||sxyprn.net^$all
@@ -161,6 +166,7 @@
 ||toppornsites.porn^$all
 ||toroporno.com^$all
 ||trendyporn.com^$all
+||trueanal.com^$all
 ||tube8.com^$all
 ||tube8.fr^$all
 ||tubepornstars.com^$all
@@ -179,10 +185,10 @@
 ||xhamster.com^$all
 ||xhamster.desi^$all
 ||xhamsterlive.com^$all
+||xnxx3.com^$all
 ||xnxx.com^$all
 ||xnxx.net^$all
 ||xnxx.tv^$all
-||xnxx3.com^$all
 ||xtapes.porn^$all
 ||xvideos.com^$all
 ||xvideos.red^$all
