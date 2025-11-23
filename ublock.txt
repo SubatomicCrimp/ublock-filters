@@ -176,6 +176,7 @@
 ||txnhh.com^$all
 ||txxx.com^$all
 ||vixen.com^$all
+||vogov.com^$all
 ||vxxx.com^$all
 ||watchporn.to^$all
 ||wifey.com^$all
