@@ -9,6 +9,7 @@
 ||4ksex.me^$all
 ||4porn.com^$all
 ||4tube.com^$all
+||4wank.com^$all
 ||adultdb.io^$all
 ||adulttime.com^$all
 ||allanal.com^$all
@@ -62,6 +63,7 @@
 ||foxporns.net^$all
 ||fpo.xxx^$all
 ||freesafeporn.com^$all
+||fucker.com^$all
 ||fuckingsession.com^$all
 ||fullpornvideos.com^$all
 ||fuq.com^$all
@@ -109,11 +111,12 @@
 ||nympho.com^$all
 ||okxxx1.com^$all
 ||onlyfans.com^$all
+||porn.com^$all
 ||pornbaker.com^$all
 ||pornbox.com^$all
-||porn.com^$all
 ||porndig.com^$all
 ||porndoe.com^$all
+||porndr.com^$all
 ||porndude2.com^$all
 ||porneec.com^$all
 ||porngeek.com^$all
@@ -125,8 +128,8 @@
 ||pornhoarder.pictures^$all
 ||pornhoarder.tv^$all
 ||pornhoarder.tw^$all
-||pornhub.com^$all
 ||pornhub-deutsch.net^$all
+||pornhub.com^$all
 ||pornhub.org^$all
 ||pornkai.com^$all
 ||pornlist18.com^$all
@@ -205,13 +208,14 @@
 ||xgroovy.com^$all
 ||xhamster.com^$all
 ||xhamster.desi^$all
+||xhamster19.com^$all
 ||xhamsterlive.com^$all
 ||xmoviesforyou.com^$all
 ||xneon.com^$all
-||xnxx3.com^$all
 ||xnxx.com^$all
 ||xnxx.net^$all
 ||xnxx.tv^$all
+||xnxx3.com^$all
 ||xtapes.porn^$all
 ||xvideos.com^$all
 ||xvideos.red^$all
